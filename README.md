@@ -1,7 +1,7 @@
 where-is-wally
 ==============================
 
-Use Deep Leaning to find Wally!
+Use Deep Learning to find Wally!
 
 Project Organization
 ------------
