@@ -3,6 +3,8 @@ where-is-wally
 
 Use Deep Learning to find Wally!
 
+TEST 
+
 Project Organization
 ------------
 
